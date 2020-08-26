@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520371791039",
+    "firebase_url": "https://sixsemproj.firebaseio.com",
+    "project_id": "sixsemproj",
+    "storage_bucket": "sixsemproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520371791039:android:64831933e36d32200b920a",
+        "android_client_info": {
+          "package_name": "com.example.sixsemproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520371791039-f6uieg7uhgolevk0fialvosq8q61qvs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sixsemproj",
+            "certificate_hash": "ebc9800a64e9cd7e62da5b0ff06e5349072fe1cd"
+          }
+        },
+        {
+          "client_id": "520371791039-fjehednr7ntft6l0feie2dv9mo25fvvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKnCBLe5VeODNpVwlrhhBUGvHp2GcOctw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520371791039-fjehednr7ntft6l0feie2dv9mo25fvvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
